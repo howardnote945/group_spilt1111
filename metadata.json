@@ -1,0 +1,6 @@
+{
+  "name": "GroupGenie",
+  "description": "A random group divider tool supporting both group-count and group-size modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
